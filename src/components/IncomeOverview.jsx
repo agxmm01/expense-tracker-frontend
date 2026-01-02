@@ -3,6 +3,7 @@ import {prepareIncomeLineChartData} from "../util/util.js";
 import CustomLineChart from "./CustomLineChart.jsx";
 import {Plus} from "lucide-react";
 
+// eslint-disable-next-line react/prop-types
 const IncomeOverview = ({transactions, onAddIncome}) => {
     const [chartData, setChartData] = useState([]);
     useEffect(() => {

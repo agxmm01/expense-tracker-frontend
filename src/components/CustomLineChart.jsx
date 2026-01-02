@@ -10,6 +10,7 @@ import {
 import {addThousandsSeparator} from "../util/util.js";
 
 const CustomLineChart = ({ data }) => {
+    // eslint-disable-next-line react/prop-types
     const CustomTooltip = ({ active, payload, label }) => {
         if (active && payload && payload.length) {
             const dataPoint = payload[0].payload;

@@ -85,6 +85,15 @@ API calls are centralized in `services/api.js`.
 
 ---
 
+## Screenshots
+
+<img width="1440" height="900" alt="login-page" src="https://github.com/user-attachments/assets/8b97742e-9635-4dc3-b3b8-ee71ec1ba92d" />
+
+<img width="1440" height="900" alt="dashboard" src="https://github.com/user-attachments/assets/cc0a0491-e0f0-415a-850a-83f3b2362cae" />
+
+
+
+
 ## 🧪 Research Context
 This frontend is part of a **Major Project (B.E. CSE – AI & ML specialization)** at Chandigarh University.  
 It supports experimentation and visualization for financial forecasting research.
